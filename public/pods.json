@@ -1,0 +1,128 @@
+[
+
+{
+  "title": "Yorkville",
+  "link": "https://www.listennotes.com/podcasts/walking-in-place/yorkville-DOk7cAI_Wyz/#",
+  "lat": 43.67168986,
+  "lng": -79.3933592,
+  "rss": "https://walkinginplace.libsyn.com/rss",
+  "length": "45 minutes",
+  "walkability": "flat, sidewalks",
+  "start": "Hazelton and Scollard",
+  "end": "Yonge and Davenport",
+  "src": "https://walkinginplace.libsyn.com/yorkville-sources"
+},
+
+{
+  "title": "St. Patrick's Ward",
+  "link": "https://www.listennotes.com/podcasts/walking-in-place/st-patricks-ward--RbQecps5iv/",
+  "lat": 43.65498603,
+  "lng": -79.38835923,
+  "rss": "https://walkinginplace.libsyn.com/rss",
+  "length": "45-60 Minutes",
+  "walkability": "flat, sidewalks",
+  "start": "St Patrick Subway Station",
+  "end": "The AGO",
+  "src": "https://walkinginplace.libsyn.com/st-patrick-sources"
+},
+
+{
+  "title": "The Port Lands",
+  "link": "https://www.listennotes.com/podcasts/walking-in-place/the-port-lands-4oNHChsVyg2/",
+  "lat": 43.64711116,
+  "lng": -79.32698031,
+  "rss": "https://walkinginplace.libsyn.com/rss",
+  "length": "60 minutes",
+  "walkability": "flat but muddy, some industrial roads",
+  "start": "Outer Harbour Lookout",
+  "end": "Polson Pier",
+  "src": "https://walkinginplace.libsyn.com/portlands-sources"
+},
+
+{
+  "title": "Corktown",
+  "link": "https://www.listennotes.com/podcasts/walking-in-place/corktown-01iholpeVAj/",
+  "lat": 43.65363936,
+  "lng": -79.35925786,
+  "rss": "https://walkinginplace.libsyn.com/rss",
+  "length": "45 minutes",
+  "walkability": "fairly flat, smooth roads, not crowded, some jaywalking",
+  "start": "Eastern Ave. and Sackville St.",
+  "end": "Eastern Ave. and Rolling Mills Rd.",
+  "src": "https://walkinginplace.libsyn.com/corktown-sources"
+},
+
+{
+  "title": "St. Lawrence",
+  "link": "https://www.listennotes.com/podcasts/walking-in-place/st-lawrence-e5Kgv7WBX23/",
+  "lat": 43.65155237,
+  "lng": -79.37234707,
+  "rss": "https://walkinginplace.libsyn.com/rss",
+  "length": "60 minutes",
+  "walkability": "fairly flat, lots of paved roads and sidewalks, no steps",
+  "start": "St. James Park, at the corner of Adelaide and Jarvis",
+  "end": "Omni King Edward Hotel, at Toronto St. and King St. E.",
+  "src": "https://walkinginplace.libsyn.com/st-lawrence-resources"
+},
+{
+  "title": "Castles seem like a lot of work",
+  "link": "https://www.listennotes.com/podcasts/walking-in-place/castles-seem-like-a-lot-of-SFLM8vxeHUA/",
+  "lat": 43.67672946,
+  "lng": -79.41576643,
+  "rss": "https://walkinginplace.libsyn.com/rss",
+  "length": "60 minutes",
+  "walkability": "",
+  "start": "Davenport and Bathurst",
+  "end": "Davenport and Spadina",
+  "src": "https://walkinginplace.libsyn.com/castles-seem-like-a-lot-of-work"
+},
+{
+  "title": "Death, Art, and Giant Santas",
+  "link": "https://www.listennotes.com/podcasts/walking-in-place/death-art-and-giant-santas-PXv82HrENt1/",
+  "lat": 43.69827756,
+  "lng": -79.39654863,
+  "rss": "https://walkinginplace.libsyn.com/rss",
+  "length": "40 minutes",
+  "walkability": "",
+  "start": "Corner of Yonge and Davisville Ave.",
+  "end": "Inglewood Dr.",
+  "src": "https://walkinginplace.libsyn.com/death-art-and-giant-santas-sources"
+},
+{
+  "title": "Queen and Ossington",
+  "link": "https://www.listennotes.com/podcasts/walking-in-place/queen-and-ossington-rsV-w9u1PkZ/",
+  "lat": 43.64431073,
+  "lng": -79.41882934,
+  "rss": "https://walkinginplace.libsyn.com/rss",
+  "length": "40 minutes",
+  "walkability": "",
+  "start": "Queen St. W. and Ossington Ave.",
+  "end": "Queen St. W. and Bathurst St.",
+  "src": "https://walkinginplace.libsyn.com/queen-and-ossington-sources"
+},
+{
+  "title": "Trinity Bellwoods Park",
+  "link": "https://www.listennotes.com/podcasts/walking-in-place/trinity-bellwoods-park-zX8Ejt1uP7Y/",
+  "lat": 43.64570707,
+  "lng": -79.411391172,
+  "rss": "https://walkinginplace.libsyn.com/rss",
+  "length": "25 minutes",
+  "walkability": "",
+  "start": "Corner of the park at Queen St. W. and Gore Vale Avenue",
+  "end": "the gates entering the park at Strachan and Queen",
+  "src": "https://walkinginplace.libsyn.com/bellwoods-sources"
+},
+{
+  "title": "Creepy Cabbagetown",
+  "link": "https://www.listennotes.com/podcasts/walking-in-place/creepy-cabbagetown-V2TnGKFp7qA/",
+  "lat": 43.66324751,
+  "lng": -79.37306623,
+  "rss": "https://walkinginplace.libsyn.com/rss",
+  "length": "60-90 minutes",
+  "walkability": "",
+  "start": "Corner of Carlton and Sherbourne",
+  "end": "Necropolis Cemetery",
+  "src": "https://walkinginplace.libsyn.com/creepy-cabbagetown"
+}
+
+]
