@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/joshmclain/Walking-Tour-Podcast-Directory/static/css/main.8cd992ea.chunk.css",
-    "main.js": "/joshmclain/Walking-Tour-Podcast-Directory/static/js/main.980c22d7.chunk.js",
-    "main.js.map": "/joshmclain/Walking-Tour-Podcast-Directory/static/js/main.980c22d7.chunk.js.map",
-    "runtime-main.js": "/joshmclain/Walking-Tour-Podcast-Directory/static/js/runtime-main.719fb904.js",
-    "runtime-main.js.map": "/joshmclain/Walking-Tour-Podcast-Directory/static/js/runtime-main.719fb904.js.map",
-    "static/js/2.bcf33e62.chunk.js": "/joshmclain/Walking-Tour-Podcast-Directory/static/js/2.bcf33e62.chunk.js",
-    "static/js/2.bcf33e62.chunk.js.map": "/joshmclain/Walking-Tour-Podcast-Directory/static/js/2.bcf33e62.chunk.js.map",
-    "static/js/3.dca4f322.chunk.js": "/joshmclain/Walking-Tour-Podcast-Directory/static/js/3.dca4f322.chunk.js",
-    "static/js/3.dca4f322.chunk.js.map": "/joshmclain/Walking-Tour-Podcast-Directory/static/js/3.dca4f322.chunk.js.map",
-    "index.html": "/joshmclain/Walking-Tour-Podcast-Directory/index.html",
-    "static/css/main.8cd992ea.chunk.css.map": "/joshmclain/Walking-Tour-Podcast-Directory/static/css/main.8cd992ea.chunk.css.map",
-    "static/js/2.bcf33e62.chunk.js.LICENSE.txt": "/joshmclain/Walking-Tour-Podcast-Directory/static/js/2.bcf33e62.chunk.js.LICENSE.txt"
+    "main.css": "/Walking-Tour-Podcast-Directory/static/css/main.8cd992ea.chunk.css",
+    "main.js": "/Walking-Tour-Podcast-Directory/static/js/main.980c22d7.chunk.js",
+    "main.js.map": "/Walking-Tour-Podcast-Directory/static/js/main.980c22d7.chunk.js.map",
+    "runtime-main.js": "/Walking-Tour-Podcast-Directory/static/js/runtime-main.8d539649.js",
+    "runtime-main.js.map": "/Walking-Tour-Podcast-Directory/static/js/runtime-main.8d539649.js.map",
+    "static/js/2.bcf33e62.chunk.js": "/Walking-Tour-Podcast-Directory/static/js/2.bcf33e62.chunk.js",
+    "static/js/2.bcf33e62.chunk.js.map": "/Walking-Tour-Podcast-Directory/static/js/2.bcf33e62.chunk.js.map",
+    "static/js/3.dca4f322.chunk.js": "/Walking-Tour-Podcast-Directory/static/js/3.dca4f322.chunk.js",
+    "static/js/3.dca4f322.chunk.js.map": "/Walking-Tour-Podcast-Directory/static/js/3.dca4f322.chunk.js.map",
+    "index.html": "/Walking-Tour-Podcast-Directory/index.html",
+    "static/css/main.8cd992ea.chunk.css.map": "/Walking-Tour-Podcast-Directory/static/css/main.8cd992ea.chunk.css.map",
+    "static/js/2.bcf33e62.chunk.js.LICENSE.txt": "/Walking-Tour-Podcast-Directory/static/js/2.bcf33e62.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.719fb904.js",
+    "static/js/runtime-main.8d539649.js",
     "static/js/2.bcf33e62.chunk.js",
     "static/css/main.8cd992ea.chunk.css",
     "static/js/main.980c22d7.chunk.js"
